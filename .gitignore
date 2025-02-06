@@ -1,0 +1,14 @@
+# All csv files
+*.csv
+# All json files
+*.json
+# All log files
+*.log
+# All .zip files
+*.zip
+
+# Folder
+# All files in the folder
+Kaggle_9/venus-vs-mars/
+
+
