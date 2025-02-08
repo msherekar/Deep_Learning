@@ -11,4 +11,9 @@
 # All files in the folder
 Kaggle_9/venus-vs-mars/
 
+# python files
+.DS_Store
+__pycache__/
+*.py[cod]
+
 
